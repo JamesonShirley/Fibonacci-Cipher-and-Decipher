@@ -75,5 +75,3 @@ def decipher(cipherlist, ciphernumber):
     return decipheredword
 
 
-
-print(decipher(cipher("B'ens f'ood'", 3), 3))
